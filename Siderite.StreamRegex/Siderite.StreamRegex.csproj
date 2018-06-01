@@ -9,6 +9,11 @@
     <Company />
     <Description>Adds stream and text reader functionality to Regex objects.</Description>
     <PackageLicenseUrl>https://opensource.org/licenses/MIT</PackageLicenseUrl>
+    <PackageProjectUrl>https://siderite.blogspot.com/2018/06/streamregex-published.html</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/Siderite/StreamRegex</RepositoryUrl>
+    <RepositoryType>Git</RepositoryType>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
   </PropertyGroup>
 
 </Project>
